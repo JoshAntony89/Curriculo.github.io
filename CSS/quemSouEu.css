@@ -1,0 +1,75 @@
+/*Aqui eu zero o meu documento*/
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/*Aqui eu personalizo meu plano de fundo*/
+body{
+    height: 600px;
+    background-image:-moz-radial-gradient(#163068, #000000);
+}
+
+/*Aqui eu personalizo meu 1º Titulo no HTML*/
+h1{
+    color: green;
+    font-size: 30px;
+    font-family: Lucida Handwriting;
+    text-align: center;
+    text-shadow: 2px 2px 8px #999999;
+}
+
+/*Aqui eu personalizo meu 2º Titulo no HTML*/
+h2{
+    color: green;
+    font-size: 30px;
+    font-family: Helvetica;
+    text-align: center;
+    text-shadow: 2px 2px 8px #999999;
+}
+
+/*Aqui eu personalizo meu texto pelo paragrafo, colocando cor no texto, mudei a fonte, etc...*/
+p{
+    color: #657fe7;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: bold;
+}
+
+/*Aqui eu personalizo o link visitado na pagina*/
+a:visited{
+    color: aquamarine;
+    text-decoration: none;
+}
+
+/*Aqui eu personalizo o quando passa o mouse em cima do link*/
+a:hover{
+    color: rgb(7, 117, 44);
+    text-decoration: none;
+}
+
+/*Aqui eu personalizo a div1 no HTML*/
+.div1{
+    text-align: center;
+    border-radius: 50px;
+    border: 5px #000000;
+}
+
+/*Aqui estou personalizando a div2 que é o link do Facebook*/
+.div2 a{
+    text-align: center;
+    text-decoration: none;
+}
+
+/*Personalizando o link do e-mail*/
+.div3 a{
+    color: #2b35b6;
+    
+}
+
+/*Personalizando o link do e-mail quando passa o mouse em cima do link*/
+.div3 a:hover{
+    color: rgb(7, 117, 44);
+    text-decoration: underline;
+}

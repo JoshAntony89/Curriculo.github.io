@@ -1,0 +1,103 @@
+/*Aqui eu zerei o documento*/
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/*Aqui eu personalizo o 1º Titulo do meu site*/
+h1{
+    color: rgb(8, 8, 8);
+    padding: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+    text-align: center; 
+    text-shadow: 4px 4px 9px #310364;
+}
+
+/*Aqui eu coloco um papel de parede no meu site*/
+body{
+    height: 640px;
+    background-image: linear-gradient(210deg,#097424, #989898);
+}
+
+/*Aqui eu personalizo a Div mudando a cor, fonte, e colocando elemento em bloco*/
+.texto1{
+    color: #700707;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+}
+
+/*Aqui eu personalizo o 1º paragrafo, colocando para a esquerda, e margem acima*/
+.p1{
+    margin-left: 360px;
+    margin-top: 20px;
+    
+}
+
+/*Aqui eu personalizo a Div mudando a cor, fonte, e colocando elemento em bloco*/
+.texto2{
+    color: #700707;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    margin-left: 28%;
+}
+
+/*Aqui eu personalizo o 2º paragrafo, colocando para a esquerda, e margem acima*/
+.p2{
+    margin-right: 292px;
+    margin-top: 15px;
+}
+
+/*Aqui eu personalizo a Div mudando a cor, fonte, e colocando elemento em bloco*/
+.texto3{
+    color: #0a0a0a;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+}
+
+/*Aqui eu personalizo o 3º paragrafo, colocando para a esquerda, e margem acima*/
+.p3{
+    margin-left: 360px;
+    margin-top: 70px;
+}
+
+/*Aqui eu personalizo a Div mudando a cor, fonte, e colocando elemento em bloco*/
+.texto4{
+    color: #0c0c0c;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    margin-left: 28%;
+}
+
+/*Aqui eu personalizo o 4º paragrafo, colocando para a esquerda, e margem acima*/
+.p4{
+    margin-right: 292px;
+    margin-top: 15px;
+}
+
+/*Aqui eu personalizo a Div mudando a cor, fonte, e colocando elemento em bloco*/
+.texto5{
+    color: #700707;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+}
+
+/*Aqui eu personalizo o 5º paragrafo, colocando para a esquerda, e margem acima*/
+.p5{
+    margin-left: 360px;
+    margin-top: 70px;
+}
+
+/*Aqui eu personalizo a Div mudando a cor, fonte, e colocando elemento em bloco*/
+.texto6{
+    color: #700707;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    margin-left: 28%;
+}
+
+/*Aqui eu personalizo o 6º paragrafo, colocando para a esquerda, e margem acima*/
+.p6{
+    margin-right: 292px;
+    margin-top: 15px;
+}
+

@@ -1,0 +1,124 @@
+/*Aqui eu zerei o documento*/
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/*Aqui eu personalizo o Titulo do meu site*/
+h1{
+    padding-top: 25px;
+    color: rgb(4, 3, 99);
+    text-align: center;
+    text-shadow: 3px 3px 8px #000000;
+}
+
+/*Aqui eu personalizo meu papel de parede no site*/
+body{
+    background-image: url(../Imagens/Profissões3.jpg);
+    background-size: cover;
+}
+
+/*Aqui eu chamo div1 para colocar, cor na minha fonte, Margem a esquerda 28%*/
+.div1{
+    color: rgb(150, 7, 7);
+    display: flex;
+    margin-left: 28%;
+}
+
+/*Aqui eu coloco o texto mais para a direita 200pixel, e o texto mais para cima em 50pixel*/
+.p1{
+    margin-right: 200px;
+    margin-top: 50px;
+}
+
+/*Aqui eu chamo div2 para colocar, cor na minha fonte, Margem a esquerda 28%*/
+.div2 {
+    color: rgb(150, 7, 7);
+    display: flex;
+    margin-left: 28%;
+}
+
+/*Aqui eu coloco o texto mais para a direita 292pixel, e o texto mais para cima em 15pixel*/
+.p2{
+    margin-right: 292px;
+    margin-top: 15px;
+}
+
+/*Aqui eu chamo div3 para colocar, cor na minha fonte, Margem a esquerda 28%*/
+.div3 {
+    color: rgb(150, 7, 7);
+    display: flex;
+    margin-left: 28%;
+}
+
+/*Aqui eu coloco o texto mais para a direita 212pixel, e o texto mais para cima em 50pixel*/
+.p3{
+    margin-right: 212px;
+    margin-top: 50px;
+}
+
+/*Aqui eu chamo div4 para colocar, cor na minha fonte, Margem a esquerda 28%*/
+.div4 {
+    color: rgb(150, 7, 7);
+    display: flex;
+    margin-left: 28%;
+}
+
+/*Aqui eu coloco o texto mais para a direita 292pixel, e o texto mais para cima em 15pixel*/
+.p4{
+    margin-right: 292px;
+    margin-top: 15px;
+}
+
+/*Aqui eu chamo div5 para colocar, cor na minha fonte, Margem a esquerda 28%*/
+.div5 {
+    color: rgb(150, 7, 7);
+    display: flex;
+    margin-left: 28%;
+}
+
+/*Aqui eu coloco o texto mais para a direita 216pixel, e o texto mais para cima em 50pixel*/
+.p5{
+    margin-right: 216px;
+    margin-top: 50px;
+}
+
+/*Aqui eu chamo div6 para colocar, cor na minha fonte, Margem a esquerda 28%*/
+.div6 {
+    color: rgb(150, 7, 7);
+    display: flex;
+    margin-left: 28%;
+}
+
+/*Aqui eu coloco o texto mais para a direita 292pixel, e o texto mais para cima em 15pixel*/
+.p6{
+    margin-right: 292px;
+    margin-top: 15px;
+}
+
+/*Aqui eu chamo div7 para colocar, cor na minha fonte, Margem a esquerda 28%*/
+.div7 {
+    color: rgb(150, 7, 7);
+    display: flex;
+    margin-left: 28%;
+}
+
+/*Aqui eu coloco o texto mais para a direita 218pixel, e o texto mais para cima em 50pixel*/
+.p7{
+    margin-right: 218px;
+    margin-top: 50px;
+}
+
+/*Aqui eu chamo div8 para colocar, cor na minha fonte, Margem a esquerda 28%*/
+.div8 {
+    color:rgb(150, 7, 7);
+    display: flex;
+    margin-left: 28%;
+}
+
+/*Aqui eu coloco o texto mais para a direita 292pixel, e o texto mais para cima em 15pixel*/
+.p8{
+    margin-right: 292px;
+    margin-top: 15px;
+}
+

@@ -1,0 +1,53 @@
+/*Aqui eu zero o Documento*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*Aqui eu personalizo meu link, coloco cor nele, centralizo ele, mudo a font dele, mudo o tamanho*/
+a{
+    align-items: center;
+    padding: 25px;
+    color:rgb(163, 27, 27);
+    text-decoration: none; 
+    font-family: garamond;
+    font-size: 35px;
+}
+
+/*Aqui eu personalizo meu papel de fundo do meu site*/
+body{
+    background-image: radial-gradient( #6d2134, rgb(78, 91, 172)) ;
+}
+
+/*Aqui eu personalizo o meio do meu site chamando a div1 no html, eu fiz um menu com os 4 links no meio*/
+.div1{
+    text-align: center;
+    margin: 100px;
+    padding: 15px;
+    background-color: #000000;
+    border-radius: 50px;
+    border-color: #860303;
+}
+
+/*Aqui eu personalizo o meio do meu site chamando a div2 no html, colocando uma imagem centralizada*/
+.div2{
+    text-align: center;
+    margin-top: -20px;
+    padding: 15px;
+}
+
+/*Aqui eu personalizo meu link quando a pessoa passa o mouse em cima do link*/
+a:hover{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+/*Aqui é quando eu clico em cima do link do meu site*/
+a:active{
+    color: #639107;
+    text-decoration: none;
+}
+
+
+

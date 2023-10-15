@@ -1,0 +1,68 @@
+/*Aqui eu zero o documento*/
+*{
+    padding: 0;
+    margin: 0;
+}
+
+/*Aqui eu personalizo o titulo da minha pagina*/
+h1{
+    color: aliceblue;
+    text-align: center;
+    text-shadow: 3px 3px 8px #1c6d04;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 30px;
+    
+}
+
+/*Aqui eu personalizo o plano de fundo do meu site*/
+body{
+    height: 600px;
+    background-image: -moz-radial-gradient(#851717, #000000);
+}
+
+/*Aqui eu personalizo o meu formulário*/
+form{
+    text-align: center;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*Aqui eu personalizo o nome do meu formulário*/
+form input[type=text]{ 
+    width: 30%;
+    height: 10%;
+    margin-top: 80px;
+    padding: 3px;
+}
+
+/*Aqui eu personalizo o número do meu formulário*/
+form input[type=number]{
+    width: 30%;
+    height: 10%;
+    margin-top: 15px;
+    margin-right: 10px;
+    padding: 3px;
+}
+
+/*Aqui eu personalizo o número do meu formulário*/
+form input[type=email]{
+    width: 30%;
+    height: 10%;
+    margin-top: 15px;
+    padding: 3px;
+}
+
+/*Aqui eu personalizo minha caixa de texto*/
+textarea{
+    width: 20%;
+    height: 20%;
+    margin-top: 15px;
+    padding: 3px;
+}
+
+/*Aqui eu personalizo o botão do meu formulário*/
+form input[type=submit]{
+    width: 60px;
+    height: 45px;
+    margin-top: 15px;
+}
